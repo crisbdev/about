@@ -15,13 +15,13 @@
   <img align="center" alt="cris-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="cris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="cris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="cris-gif" height="180em" src="https://share-cdn.picrew.me/shareImg/org/202108/338224_6mlV0rB7.png">
+  <img align="right" alt="cris-gif" height="180em" src="https://im.ezgif.com/tmp/ezgif-1-91017aeda8a9.gif">
 </div>
   
   ##
  
 <div> 
-  <a href = "mailto:petriciac@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+  <a href ="mailto:petriciac@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/patriciaccb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/crisbdev/crisbdev/blob/output/github-contribution-grid-snake.svg)
