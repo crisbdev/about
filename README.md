@@ -1,6 +1,6 @@
 ### Oi! Sou a Cris.
 
-  - No momento estudo desenvolvimento frontend na ![Laboratoria](https://laboratoria.la/)
+  - No momento estudo desenvolvimento frontend na [Laboratoria](https://laboratoria.la/)
   - Adoro plantas, gatos, música e piadas ruins
  <div>
   <a href="https://github.com/crisbdev">
